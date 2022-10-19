@@ -37,7 +37,7 @@
     },
     "CHAT": {
       "description": "ID of Channel or Group where the Bot plays Music",
-      "value": "-100",
+      "value": "-1001768257900",
       "required": true
     },
     "LOG_GROUP": {
@@ -46,12 +46,12 @@
     },
     "ADMINS": {
       "description": "ID of Users who can use Admin commands seperated by space)",
-      "value": "749673781",
+      "value": "1970096110",
       "required": true
     },
     "STREAM_URL": {
       "description": "URL of Radio station or Youtube live video url to stream with /r command",
-      "value": "https://bit.ly/MwKradio",
+      "value": "https://www.liveradio.ie/stations/star-radio-tamil",
       "required": true
     },
     "ADMIN_ONLY": {
@@ -61,7 +61,7 @@
     },
     "DUR": {
       "description": "Keep This Blank if you dont now what it is, Maximum duration of song to play.(Optional)",
-      "value": "300",
+      "value": "1500",
       "required": false
 }
   },
